@@ -4,7 +4,7 @@ Práce se zabývá vytvořením webových stránek ...
 
 Nezapomenu upravit odkazy a "aktivovat" GitHub Pages... 
 
-[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/divadelni-budka/)
+[Webová stránka s ukázkovou implemetací](https://pslib-cz.github.io/2022-l3-web-site-karolina-fucikova/)
 
 [Návrh webové stránky ve Figmě](https://www.figma.com/file/IoomBq5yBJmoOrQMvx8aAj/Divadeln%C3%AD-Budka?type=design&node-id=0%3A1&t=5HF2lcRE24JmKhf0-1)
 
